@@ -1,0 +1,19 @@
+.stats-card {
+    background-color: var(--brand-bg-dark-grey) !important;
+    border: none !important;
+    color: var(--brand-white) !important;
+    border-radius: 5px;
+}
+
+.stats-align-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stats-icon-wrap {
+    background-color: var(--brand-red);
+    border-radius: 50%;
+    padding: 12px;
+    width: 60px;
+    height: 60px;
+}

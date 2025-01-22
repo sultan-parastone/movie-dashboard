@@ -1,0 +1,29 @@
+.login-form {
+    padding: 2rem;
+    backdrop-filter: blur(8px);
+}
+
+.login-title {
+   color: var(--brand-white);
+   text-align: center;
+   margin-bottom: 2rem;
+   text-transform: uppercase;
+   font-weight: 700;
+}
+
+.forg-link a {
+    color: var(--brand-white);
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+
+.forg-link a:hover {
+    color: var(--brand-red) !important;
+}
+
+.reg-logo {
+    width: 100%;
+    height: 50px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,6 @@
+.genre-popularity-chart {
+    padding: 1rem;
+    background-color: var(--brand-bg-dark-grey);
+    border-radius: 5px;
+    z-index: -1;
+}
